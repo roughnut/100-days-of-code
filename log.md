@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, 2017, Thursday
+
+**Today's Progress**: Debugging my new Bootstrap navbar.
+
+**Thoughts**: Pretty happy to have solved all the bugs myself. More to come no doubt.
+
+**Link(s) to work**:
+1. [Clinker Cup](http://clinkercup.com/)
+
 ### Day 2: January 4, 2017, Wednesday
 
 **Today's Progress**: Still working on replacing much of CSS in site with Bootstrap classes. Spending quite a bit of time on Stack Overflow. 
