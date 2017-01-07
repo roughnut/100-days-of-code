@@ -6,6 +6,9 @@
 
 **Thoughts**: Feeling more confident the more I do.
 
+**Link(s) to work**: 
+1. [Clinker Cup](http://clinkercup.com/rules.html)
+
 ### Day 3: January 5, 2017, Thursday
 
 **Today's Progress**: Debugging my new Bootstrap navbar.
