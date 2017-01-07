@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, 2017, Friday
+
+**Today's Progress**: Learning more collapsible Bootstrap for an accordian setup page
+
+**Thoughts**: Feeling more confident the more I do.
+
 ### Day 3: January 5, 2017, Thursday
 
 **Today's Progress**: Debugging my new Bootstrap navbar.
