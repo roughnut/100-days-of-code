@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 5: January 7, 2017, Saturday
+
+**Today's Progress**: Converting ugly text lists into sexy accordions with Bootstrap
+
+**Thoughts**: Been typing everything in order to remember syntax.
+
+**Link(s) to work**: 
+1. [Clinker Cup](http://clinkercup.com/rules.html)
 
 ### Day 4: January 6, 2017, Friday
 
