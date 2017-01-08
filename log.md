@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+
+### Day 6: January 8, 2017, Sunday
+
+**Today's Progress**: Still learning more about Bootstrap & restyling an old website.
+
+**Thoughts**: I'm finding Bootstrap is replacing most of my old CSS.
+
+**Link(s) to work**: 
+1. [Clinker Cup](http://clinkercup.com/)
+
 ### Day 5: January 7, 2017, Saturday
 
 **Today's Progress**: Converting ugly text lists into sexy accordions with Bootstrap
