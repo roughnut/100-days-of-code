@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10, 2017
+
+**Today's Progress**: Working with media objects in Bootstrap.
+
+**Thoughts**: Styling used to be much harder.
+
+**Link(s) to work**: 
+1. [Clinker Cup](http://clinkercup.com/)
+
+### Day 7: January 9, 2017, Monday
+
+**Today's Progress**: More Bootstrap. Tidying up website tables behind accordions. 
+
+**Thoughts**: Lots to learn.
+
+**Link(s) to work**: 
+1. [Clinker Cup](http://clinkercup.com/)
+
 ### Day 6: January 8, 2017, Sunday
 
 **Today's Progress**: Still learning more about Bootstrap & restyling an old website.
