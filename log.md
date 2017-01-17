@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 17, 2017, Tuesday
+
+**Today's Progress**: Started freeCodeCamp portfolio project & struggled with vertical & center alignment of images in containers.
+
+**Thoughts** I would have thought it'd be easier in Bootstrap to align images in the dead-centre of a container.
+
+**Link(s) to work**:
+1. [freeCodeCamp portfolio](https://codepen.io/roughnut/pen/GrNRWY)
+
 ### Day 8: January 10, 2017
 
 **Today's Progress**: Working with media objects in Bootstrap.
