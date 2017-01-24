@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 24, 2017, Tuesday
+
+**Today's Progress**: Worked on navs using Bootstrap.
+
+**Thoughts**: Not much coding recently due to family commitments, but have been reading CSS articles when I've had time.
+
+**Link to work**:
+1. [freeCodeCamp portfolio](https://codepen.io/roughnut/pen/GrNRWY)
+
 ### Day 9: January 17, 2017, Tuesday
 
 **Today's Progress**: Started freeCodeCamp portfolio project & struggled with vertical & center alignment of images in containers.
