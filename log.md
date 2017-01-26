@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 26, 2017, Thursday
+
+**Today's Progress**: Worked out how to use Bootstrap Scrollspy plugin
+
+**Thoughts**: Perseverance and Google make all the difference.
+
+**Link to work**:
+1. [freeCodeCamp portfolio](https://codepen.io/roughnut/pen/GrNRWY)
+
 ### Day 10: January 24, 2017, Tuesday
 
 **Today's Progress**: Worked on navs using Bootstrap.
